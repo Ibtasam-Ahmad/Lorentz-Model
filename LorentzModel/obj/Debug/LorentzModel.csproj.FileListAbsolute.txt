@@ -1,0 +1,40 @@
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe.config
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\bin\Debug\LorentzModel.pdb
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csprojResolveAssemblyReference.cache
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Form1.resources
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Properties.Resources.resources
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.GenerateResource.Cache
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.exe
+C:\Users\3319be\Desktop\LorentzModel\LorentzModel\obj\Debug\LorentzModel.pdb
+Z:\simulation lab\final\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe.config
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.exe
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.pdb
+Z:\simulation lab\final\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe
+Z:\simulation lab\final\LorentzModel\LorentzModel\bin\Debug\LorentzModel.pdb
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csprojResolveAssemblyReference.cache
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Form1.resources
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Properties.Resources.resources
+Z:\simulation lab\final\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.GenerateResource.Cache
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe.config
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.pdb
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.AssemblyReference.cache
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Form1.resources
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Properties.Resources.resources
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.GenerateResource.cache
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.CoreCompileInputs.cache
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.exe
+C:\Users\Ibtasam Ahmad\Downloads\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.pdb
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe.config
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.exe
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\bin\Debug\LorentzModel.pdb
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.AssemblyReference.cache
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Form1.resources
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.Properties.Resources.resources
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.GenerateResource.cache
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.csproj.CoreCompileInputs.cache
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.exe
+E:\Simulation\After mids 7\LorentzModel\LorentzModel\LorentzModel\obj\Debug\LorentzModel.pdb
